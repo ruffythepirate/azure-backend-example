@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# TypeScript generated files
+dist/
+
+# Compiled binary files
+*.d.ts
+*.js
+*.js.map
+
+# Editor directories and files
+.vscode/
+*.env
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# npm-debug.log* can be ignored if you are sure you won't need to debug npm issues.
+
